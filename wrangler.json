@@ -1,0 +1,5 @@
+{
+  "name": "grafana-ntfy-cf-worker",
+  "main": "worker.js",
+  "compatibility_date": "2025-11-25"
+}
